@@ -1,0 +1,7 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Siaod6, Конфигурация: Debug x64 ------
+1>Siaod6.cpp
+1>C:\Users\Huawei\source\repos\Siaod6\Siaod6\Siaod6.cpp(193,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+1>Siaod6.vcxproj -> C:\Users\Huawei\source\repos\Siaod6\x64\Debug\Siaod6.exe
+1>Сборка проекта "Siaod6.vcxproj" завершена.
+========== Сборка: успешно: 1, сбой: 0, в актуальном состоянии: 0, пропущено: 0==========
